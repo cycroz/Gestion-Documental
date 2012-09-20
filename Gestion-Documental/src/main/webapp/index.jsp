@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>&iexcl;Bienvenido Cristian!</h2>
+<h2>&iexcl;Bienvenidos!</h2>
 </body>
 </html>
